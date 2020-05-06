@@ -7,7 +7,7 @@ Forked from [markpenaranda/ngx-countdown-timer](https://github.com/markpenaranda
 To install this library, run:
 
 ```bash
-$ npm install ngx-countdown-timer --save
+$ npm install @haithamsboui/ngx-countdown-timer --save
 ```
 
 ## Consuming your library
