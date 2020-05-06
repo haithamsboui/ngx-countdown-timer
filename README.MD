@@ -1,3 +1,5 @@
+Forked from [markpenaranda/ngx-countdown-timer](https://github.com/markpenaranda/ngx-countdown-timer)
+
 # ngx-countdown-timer
 
 ## Installation
